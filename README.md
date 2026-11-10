@@ -11,3 +11,5 @@ How to Participate
 1. Create an Account: Sign up on the official NASA Space Apps Challenge Website.
 2. Register: Register for the hackathon before or during the event weekend.
 3. Join a Local Event & Form a Team: Pick a local or virtual event and build a team of up to six people.
+
+
